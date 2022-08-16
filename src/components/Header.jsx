@@ -3,7 +3,7 @@ import React from 'react'
 export default function Header(){
   return (
     <div>
-       <img className='profile' src="./images/profileImage.png" alt="my prfile" />
+       <img className='profile' src="../images/profileImage.png" alt="my profile" />
 
        <div className='sub-head'>
             <h1 className='name'>Michael Emmanuel</h1>
